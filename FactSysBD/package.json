@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.19.1",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.9.2",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.1"
+  },
+  "name": "factsysbd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app/app.js",
+    "dev": "npx nodemon src/app/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
