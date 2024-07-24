@@ -1,0 +1,50 @@
+.containerMenuCompo{
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    transform: translate(-80px);
+
+}
+.containerMenuCompo p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: small;
+}
+.liMenuList{
+    list-style: none;
+    border: 2px solid rgb(95, 142, 180);;
+    border-radius: 0px 5px 5px 0px;
+    margin-bottom: 5px;
+    padding: 5px; 
+    transition: transform 0.3s ease-in-out;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 170px;
+
+}
+.liMenuList:hover{
+    transform: translateX(10px) ;
+    cursor: pointer;
+
+}
+.imgLogoMenu{
+    max-width: 49px;
+    min-width: 49px;
+}
+
+.containerMenuCompo ul{
+    transform: translateX(-50px);
+    transition: transform 1s ease-in-out;
+}
+.containerMenuCompo ul:hover{
+    position: relative;
+    transform: translateX(35px);
+}

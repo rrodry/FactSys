@@ -1,0 +1,94 @@
+.divAddProducts{
+    padding: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: small;
+    background-color: rgb(238, 237, 237);
+
+}
+.selectProductCode{
+    width: 200px;
+    padding: 10px 10px 10px 25px;
+    
+    
+}
+.selectSubProductCode{
+    min-height: auto;
+}
+.divAddProductsTitle{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: medium;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.divAddProductsInputs{
+    display: flex;
+    justify-content: space-between;
+    max-width: 80%;
+    padding: 10px;
+	align-items: center;
+	position: relative;
+
+}
+
+.divAddProductsInputs input {
+	padding: 5px 10px;
+	padding-left: 35px;
+	outline: none;
+	background: #FFFFFF;
+	color: #000000;
+	border-radius: 3px;
+	box-shadow: 3px 3px 2px 0px #E2E2E2;
+	transition: .3s ease;
+}
+.containerAddProductsCompo{
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+.divAddProductsInputs input:focus {
+	background: #F2F2F2;
+	border: 1px solid #5A7EC7;
+	border-radius: 5px;
+}
+
+.divAddProductsInputs input::placeholder {
+	color: #DDDDDD;
+}
+
+.svg_icon {
+	position: absolute;
+	left: 15px;
+	fill: #000000;
+	width: 14px;
+	height: 14px;
+}
+.divAddProductsButtons{
+    display: flex;
+    align-items: center;
+}
+.buttonAddProducts{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: small;
+    color: #000000 !important;
+    font-size: small;
+    text-shadow: 0px 0px 0px #000000;
+    box-shadow: 1px 1px 1px #BEE2F9;
+    padding: 8px;
+    border-radius: 5px;
+    border: 0px solid #3866A3;
+    background: #62F0E6;
+    transition: background-color 0.3s ease-in-out;
+}
+.buttonAddProducts:hover{
+    color: #14396A !important;
+    background: #5dcf46;
+    cursor: pointer;
+}

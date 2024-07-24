@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: small;
+}
+.containerLogin{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.login{
+    width: 200px;
+}
+.login p{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.divInput{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.divInput input{
+    margin: 5px;
+    height: 25px;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+.divInput input:focus{
+    box-shadow: 0px 0px 4px blue;
+    outline: 1px solid rgb(1, 55, 172);
+
+}
+.divButtons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.divButtons button{
+    padding: 8px;
+    border-radius: 2px;
+    border: none;
+    background-color: rgb(3, 148, 148);
+    transition: transform 0.3s;
+}
+
+.divButtons button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.dvAddProducts{
+    position: relative;
+}

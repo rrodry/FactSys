@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "Codigo": "18-088-6304",
+    "Producto": "Bytecard",
+    "Precio": "$7.04",
+    "Cantidad": 1452919224
+  },
+  {
+    "id": 2,
+    "Codigo": "15-998-7966",
+    "Producto": "Ronstring",
+    "Precio": "$1.92",
+    "Cantidad": 8491158375
+  },
+  {
+    "id": 3,
+    "Codigo": "70-244-1589",
+    "Producto": "Job",
+    "Precio": "$4.55",
+    "Cantidad": 7928906589
+  },
+  {
+    "id": 4,
+    "Codigo": "09-822-6252",
+    "Producto": "Bitchip",
+    "Precio": "$6.00",
+    "Cantidad": 3881427309
+  },
+  {
+    "id": 5,
+    "Codigo": "22-877-1720",
+    "Producto": "Regrant",
+    "Precio": "$6.54",
+    "Cantidad": 3197408195
+  },
+  {
+    "id": 6,
+    "Codigo": "60-808-4265",
+    "Producto": "Veribet",
+    "Precio": "$2.70",
+    "Cantidad": 9987372864
+  },
+  {
+    "id": 7,
+    "Codigo": "24-943-0246",
+    "Producto": "Cardify",
+    "Precio": "$2.93",
+    "Cantidad": 8476559461
+  },
+  {
+    "id": 8,
+    "Codigo": "10-250-3035",
+    "Producto": "Voltsillam",
+    "Precio": "$9.57",
+    "Cantidad": 4333958431
+  },
+  {
+    "id": 9,
+    "Codigo": "76-905-3642",
+    "Producto": "Redhold",
+    "Precio": "$2.40",
+    "Cantidad": "0382943996"
+  },
+  {
+    "id": 10,
+    "Codigo": "73-071-2527",
+    "Producto": "Quo Lux",
+    "Precio": "$1.56",
+    "Cantidad": 2713943450
+  },
+  {
+    "id": 11,
+    "Codigo": "43-240-7394",
+    "Producto": "Konklux",
+    "Precio": "$2.13",
+    "Cantidad": 1227758014
+  },
+  {
+    "id": 12,
+    "Codigo": "12-165-9613",
+    "Producto": "Job",
+    "Precio": "$0.90",
+    "Cantidad": 5723820303
+  },
+  {
+    "id": 13,
+    "Codigo": "76-116-6492",
+    "Producto": "Matsoft",
+    "Precio": "$3.54",
+    "Cantidad": 7038999680
+  },
+  {
+    "id": 14,
+    "Codigo": "76-717-4327",
+    "Producto": "Konklab",
+    "Precio": "$5.11",
+    "Cantidad": 7009506477
+  },
+  {
+    "id": 15,
+    "Codigo": "54-752-8101",
+    "Producto": "Voltsillam",
+    "Precio": "$9.56",
+    "Cantidad": "0536250588"
+  },
+  {
+    "id": 16,
+    "Codigo": "91-258-1076",
+    "Producto": "Regrant",
+    "Precio": "$9.91",
+    "Cantidad": 5290925589
+  },
+  {
+    "id": 17,
+    "Codigo": "35-803-3400",
+    "Producto": "Stringtough",
+    "Precio": "$5.12",
+    "Cantidad": "0857869337"
+  },
+  {
+    "id": 18,
+    "Codigo": "72-382-2435",
+    "Producto": "Otcom",
+    "Precio": "$4.72",
+    "Cantidad": 1236628128
+  },
+  {
+    "id": 19,
+    "Codigo": "66-226-1782",
+    "Producto": "Ventosanzap",
+    "Precio": "$5.50",
+    "Cantidad": 8529245997
+  },
+  {
+    "id": 20,
+    "Codigo": "88-545-2471",
+    "Producto": "Sonair",
+    "Precio": "$2.59",
+    "Cantidad": 9097853397
+  }
+]
